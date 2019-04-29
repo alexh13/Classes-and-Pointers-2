@@ -3,4 +3,4 @@ project(assignment13_1)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(assignment13_1 client.cpp mystring.h mystring.cpp)
+add_executable(assignment13_1 client.cpp mystring.h mystring.cpp CMakeFiles/mystring.txt)

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alexhughes/CLionProjects/assignment13_1/client.cpp
+mystring.h
+/Users/alexhughes/CLionProjects/assignment13_1/mystring.h
+fstream
+-
+cctype
+-
+string
+-
+cassert
+-
+iostream
+-
+
+/Users/alexhughes/CLionProjects/assignment13_1/mystring.cpp
+stdio.h
+-
+stdlib.h
+-
+cstring
+-
+cassert
+-
+mystring.h
+/Users/alexhughes/CLionProjects/assignment13_1/mystring.h
+
+/Users/alexhughes/CLionProjects/assignment13_1/mystring.h
+iostream
+-
+

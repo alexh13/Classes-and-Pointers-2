@@ -78,6 +78,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/alexhughes/CLionProjects/assignment13_1/CMakeFiles/mystring.txt">
+			<Option target="assignment13_1"/>
+		</Unit>
 		<Unit filename="/Users/alexhughes/CLionProjects/assignment13_1/client.cpp">
 			<Option target="assignment13_1"/>
 		</Unit>
